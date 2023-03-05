@@ -9,7 +9,8 @@ Link para o repositório do projeto waiterapp-api: https://github.com/guizbr/wai
 
 Imagens do aplicativo:
 
-![app1](https://user-images.githubusercontent.com/55899678/222972278-bef4bad2-9846-4c60-bb9f-1e8796c9ad71.jpg)
+
+![app1 (1)](https://user-images.githubusercontent.com/55899678/222972644-3aaef04e-f416-4870-817b-245c3a0a6fd7.jpg)
 
 
 ![app2](https://user-images.githubusercontent.com/55899678/222972290-e1ff12fd-2f3f-499c-822a-d7c3145984a6.jpg)
