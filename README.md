@@ -9,17 +9,16 @@ Link para o repositório do projeto waiterapp-api: https://github.com/guizbr/wai
 
 Imagens do aplicativo:
 
-
-![app1 (1)](https://user-images.githubusercontent.com/55899678/222972644-3aaef04e-f416-4870-817b-245c3a0a6fd7.jpg)
-
-
-![app2](https://user-images.githubusercontent.com/55899678/222972290-e1ff12fd-2f3f-499c-822a-d7c3145984a6.jpg)
+![app1](https://user-images.githubusercontent.com/55899678/222972746-a81054eb-b029-40c0-a04b-4c8474afc12c.jpg)
 
 
-![app3](https://user-images.githubusercontent.com/55899678/222972294-c979233c-93f1-420d-8ec6-9e79c3623e61.jpg)
+![app2](https://user-images.githubusercontent.com/55899678/222972754-3f85d591-3109-4ff1-9935-d5d4caabc840.jpg)
 
 
-![app4](https://user-images.githubusercontent.com/55899678/222972299-ebbab1b1-6658-4d3e-a1b6-102d1431c903.jpg)
+![app3](https://user-images.githubusercontent.com/55899678/222972760-45a06c5a-6d98-43c3-a0a6-65ccc9b4303a.jpg)
+
+
+![app4](https://user-images.githubusercontent.com/55899678/222972764-27948806-cf33-4deb-ab67-ba80e4c296d3.jpg)
 
 
 Este projeto foi desenvolvido durante a semana de "O Poder do JS" do Mateus Silva.
